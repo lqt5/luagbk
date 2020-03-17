@@ -31,5 +31,6 @@ build = {
   modules = {
       gbk= "lgbk.c",
       pinyin= "lpinyin.c",
+      gb23120 = "lgb18030.cpp",
   }
 }
